@@ -1,0 +1,407 @@
+{
+  "name": "Thüringen U18 2024",
+  "electionUId" : "ThüU18_2024",
+  "description": "Die U18 Wahl zur Thüringer Landtagswahl am 01. September 2024",
+  "questions": [
+    {
+      "question": "So beschreiben wir uns selbst",
+      "answers":[
+        {"party":0,"support":-1,"answer":"Eine bessere Welt ist möglich. Wir kämpfen für eine Gesellschaft, in der kein Kind in Armut aufwachsen muss, in der alle Menschen selbstbestimmt in Frieden, Würde und sozialer Sicherheit leben und die Gesellschaft demokratisch gestalten können. Klimaschutz, bezahlbarer Wohnraum und ein gutes Gesundheitssystem für alle sind uns wichtig und wir stellen uns dem Rechtsruck entschieden entgegen."},
+        {"party":1,"support":-1,"answer":"[Unsere Partei] und deren Landesverband Thüringen steht für eine Politik im Sinne der Wähler. Wir packen an und bieten Lösungen für alle die Probleme, die die Altparteien erst verursacht haben und seit Jahren nicht lösen."},
+        {"party":2,"support":-1,"answer":"[Unsere Partei] ist die bürgerliche Volkspartei der Mitte. Wir sind konservativ, liberal und christlich-sozial. Keine Partei hat unseren Freistaat so stark geprägt wie wir. Als größte Partei Thüringens haben wir 24 Jahre regiert, 10 Jahre davon mit absoluter Mehrheit. Mit uns wurde Thüringen gut regiert – und das wollen wir auch in Zukunft tun!"},
+        {"party":3,"support":-1,"answer":"[Unsere Partei] ist die Sozialdemokratische Partei Deutschlands. Der Landesverband Thüringen wurde am 27. Januar 1990 im Gothaer Tivoli wiedergegründet. [Unsere Partei] kämpft für eine freie, solidarische und gerechte Gesellschaft. [Unsere Partei] setzt sich für faire Entlohnung von Arbeitnehmer:innen, bessere Renten und einen starken Rechtsstaat ein."},
+        {"party":4,"support":-1,"answer":"Unser Fokus liegt auf dem Erhalt unserer Lebensgrundlagen, also Klimaschutz, Natur-, Umwelt- und Tierschutz. Wir engagieren uns für ein selbstbestimmtes Lebens für alle, also auch bezahlbares Wohnen, gerechte Löhne und Wahlfreiheit in der Mobilität. Außerdem sind uns Gleichstellung, gesellschaftliche Vielfalt und eine lebendige Demokratie wichtig."},
+        {"party":5,"support":-1,"answer":"FDP"},
+        {"party":6,"support":-1,"answer":"Tierschutz hier!"},
+        {"party":7,"support":-1,"answer":"[Unsere Partei] ist eine Partei der gesellschaftlichen und politischen Mitte. Sie ist keine Ein-Themen-Partei. Sie ist die einzige wachstumskritische Partei. Die Mitglieder [unsere Partei] vereint eine liberale werteorientierte Sicht auf die Welt, welche Bodenständigkeit und Weltoffenheit zusammenbringt. [Unsere Partei] nimmt keine Firmenspenden an."},
+        {"party":8,"support":-1,"answer":"Piraten"},
+        {"party":9,"support":-1,"answer":"[Unsere Partei] steht als revolutionäre Arbeiterpartei für den echten Sozialismus. 70 Prozent der Mitglieder sind Arbeiter und Angestellte. Sie war in der DDR verboten, weil sie die Restauration des Kapitalismus in der DDR nach 1956 als Verrat an den Lehren von Marx und Lenin prinzipiell kritisierte."},
+        {"party":10,"support":-1,"answer":"Bündnis Deutschland"},
+        {"party":11,"support":-1,"answer":"BSW"},
+        {"party":12,"support":-1,"answer":"Als [unsere Partei] müssen wir den Stellenwert der Familien in unserem Land verbessern. Kinder sind das größte Armutsrisiko in unserer Gesellschaft. Eltern werden finanziell ausgebeutet und bei der Rente benachteiligt, obwohl sie es waren, die den „Steuerzahler von Morgen“ aufgezogen haben, welche den Sozialstaat überhaupt erst ermöglichen!"},
+        {"party":13,"support":-1,"answer":"Freie Wähler"},
+        {"party":14,"support":-1,"answer":"[Unsere Partei] ist eine neue freiheitliche Partei mit christlichen Werten. Wir stehen für moralische Verantwortung und für gemeinschaftliches soziales Handeln. Der Staat hat dabei die Aufgabe, Frieden und Freiheit seiner Bürger zu erhalten. Die Bürger sollen selbst entscheiden wie sie leben wollen und wie sie sich persönlich fortentwickeln."}
+      ]
+    },
+    {
+      "question": "Unsere Partei setzt sich dafür ein, dass der Unterricht und die Lehrpläne einen stärkeren Bezug zur aktuellen und zukünftigen Lebenswelt von Schülern haben(z.B. mit Sexualkunde, Gleichberechtigung, Finanzen, Steuern).",
+      "answers":[
+        {"party":0,"support":2,"answer":"Es gibt den Thüringer Bildungsplan 0- 18, der die wesentlichen Bildungsinhalte und Methoden beschreibt und nah am Leben ist. Vor allem sind wir für mehr Mitbestimmung in Schule, so sollen Schüler:innen mehr Einfluss auf die Lerninhalte bekommen."},
+        {"party":1,"support":2,"answer":"Wir wollen, dass praktische und technische Unterrichtsinhalte stärker berücksichtigt werden. Kenntnisse in den Bereichen Wirtschaft, Finanzen, Steuern, Haushalt und Ernährung sollen ausführlicher vermittelt werden. Das Gendern im Unterricht lehnen wir ab."},
+        {"party":2,"support":2,"answer":"Wir werden den schülerorientierten Unterricht ausbauen und Lehrpläne entwickeln, die auf die Bedürfnisse und lebensnahe Themen ausgerichtet sind. Schulen werden wir mehr Freiheiten geben, um Inhalte selbst zu gestalten. Selbstorganisiertes Lernen und Projektarbeit werden wir breit fördern und Hausaufgaben als Selbstlernzeit weiterentwickeln."},
+        {"party":3,"support":1,"answer":"Schulgesetz, Schulordnung und Lehrpläne haben bereits jetzt einen deutlichen Lebenswelt- und Wertebezug. Wir werden prüfen, welche Umsetzungsprobleme hier eventuell bestehen und dann entsprechend nachbessern."},
+        {"party":4,"support":2,"answer":"Wir wollen weg vom Auswendiglernen von Fakten hin zum Erlernen von Kompetenzen und Selbstorganisation, damit Schüler*innen auf Herausforderungen der Zukunft vorbereitet werden. Schule soll die Werte unserer Gesellschaft vermitteln und auf das Leben vorbereiten. Dafür brauchen wir ein neues Fächerangebot, was sich an den Lebensrealitäten orientiert."},
+        {"party":5,"support":2,"answer":"FDP"},
+        {"party":6,"support":2,"answer":"Tierschutz hier!"},
+        {"party":7,"support":2,"answer":"Grundsätzliche Zustimmung. Jedoch läuft dies bei einzelnen Themen aktuell tendenziell schon etwas über das Ziel hinaus."},
+        {"party":8,"support":2,"answer":"Piraten"},
+        {"party":9,"support":2,"answer":"So wichtig Sexualkunde, Gleichberechtigung oder Steuern sind. Es sollten auch die existenziellen Zukunftsfragen der Jugend behandelt werden.Wie einen 3. Weltkrieg verhindern? Wie den weltweiten Widerstand gegen die begonnene globale Umweltkatastrophe organisieren? Warum gehören faschistische Organisationen verboten? Wie Armut abschaffen? "},
+        {"party":10,"support":2,"answer":"Bündnis Deutschland"},
+        {"party":11,"support":2,"answer":"BSW"},
+        {"party":12,"support":2,"answer":"Junge Menschen sollten bestmöglich auf die Herausforderungen des eigenen Lebens vorbereitet werden. Dazu gehört es auch, Alltagswissen vermittelt zu bekommen. Je besser der Start nach der Schule ins alltägliche Leben beginnt, desto größer ist auch der gesamtgesellschaftliche Benefit."},
+        {"party":13,"support":2,"answer":"Freie Wähler"},
+        {"party":14,"support":2,"answer":"Es soll im Außerschulischen Bereich mehr Angebote geben. Damit die Schüler sich in den Kernfächern mehr auf den Unterricht konzentrieren können"}
+      ]
+    },
+    {
+      "question": "Unsere Partei setzt sich dafür ein, dass der Leistungsdruck (u.a. durch die BLF) auf Schüler:innen reduziert wird und auch ein individuelleres Lernen (Lernmethoden, kleinere Lerngruppen) möglich wird.",
+      "answers":[
+        {"party":0,"support":2,"answer":"Wir sind für die Abschaffung der BLF, hatten dafür im Landtag aber keine Mehrheit. Neue Lernmethoden sollten die Schüler:innen über die verbesserte Mitbestimmung (z.B. Schulkonferenz) selbst in die Diskussion bringen."},
+        {"party":1,"support":1,"answer":"[Unsere Partei] sieht das Leistungsprinzip als unentbehrlich für ein gutes Bildungssystem an. Allerdings müssen die Anforderungen für Schüler auch erfüllbar sein. Dafür braucht es bessere Lernbedingungen in den Schulen. Wir setzen uns deshalb insbesondere für die Entlastung der Lehrer und die Beseitigung des Lehrermangels ein."},
+        {"party":2,"support":1,"answer":"Wir begrüßen zeitgemäße Lernmethoden sowie kleinere Lerngruppen und setzen uns dafür ein, diese verstärkt im Unterricht einzusetzen. Die BLF gibt Schülern die notwendige Sicherheit auf dem Weg zum Abitur und hat sich zur Vorbereitung auf bevorstehende Prüfungssituationen bewährt. Dabei gilt für uns der Grundsatz, kein Abschluss ohne Prüfung."},
+        {"party":3,"support":2,"answer":" Die BLF gibt es in den meisten Bundesländern überhaupt nicht. Dort erhalten die Schüler:innen mit erfolgreichem Bestehen der 10. Klasse am Gymnasium automatisch den Realschulabschluss. Das funktioniert in diesen Bundesländern seit Jahrzehnten völlig problemlos. Warum soll Thüringen also an der BLF festhalten? [Unsere Partei] wird sie daher abschaffen. "},
+        {"party":4,"support":2,"answer":"Wir haben den Anspruch, dass Schulen den individuellen Bedürfnissen von Kindern gerecht werden und ihre individuellen Fähigkeiten fördern. Die individuelle Förderung soll Vorrang vor Noten und Leistungsdruck haben. Die BLF wollen wir abschaffen und den Realschulabschluss automatisch mit der Versetzung in die 11. Klasse vergeben."},
+        {"party":5,"support":2,"answer":"FDP"},
+        {"party":6,"support":2,"answer":"Tierschutz hier!"},
+        {"party":7,"support":2,"answer":"Leistungen zu erfassen ist grundsätzlich nichts Negatives. Die Lehrmethoden und teilweise auch die Lehrinhalte sind das Problem. Mehr „Lernen für’s Leben“ ist dringend nötig."},
+        {"party":8,"support":2,"answer":"Piraten"},
+        {"party":9,"support":2,"answer":"Mit der Versetzung in die 11. Klasse sollen alle ohne das Ablegen der „Besonderen Leistungsfeststellung“ (BLF) den Realschulabschluss erhalten, wie schon in anderen Ländern üblich. Dass Schüler „sitzen bleiben“ liegt oft nicht an den Schülern allein, sondern maßgeblich daran, dass sie nicht genug gefördert werden."},
+        {"party":10,"support":2,"answer":"Bündnis Deutschland"},
+        {"party":11,"support":2,"answer":"BSW"},
+        {"party":12,"support":2,"answer":"Leistung ja, aber eben altersgerecht. Intuitives und spielerisches Lernen müssen im Vordergrund stehen. In dem Moment, wo das Lernen als Last wahrgenommen wird, wird das erforderliche lebenslange Lernen erheblich erschwert. In der Schule wird der Grundstein gelegt, wie Menschen auch in Zukunft an neuem Wissen und Fähigkeiten wachsen."},
+        {"party":13,"support":2,"answer":"Freie Wähler"},
+        {"party":14,"support":2,"answer":"Mehr qualifizierte Lehrer. Schüler möchten sich messen, sei es beim Sport oder auch in anderen Fächern. Wer mehr lernt und so besser ist soll auch bessere Noten haben"}
+      ]
+    },
+    {
+      "question": "Unsere Partei setzt sich dafür ein, dass Schulen und Lehrkräfte Kinder mit Lernschwächen oder in schwierigen persönlichen Situationen besser unterstützen können.",
+      "answers":[
+        {"party":0,"support":2,"answer":"Wir setzen uns für noch mehr Schulsozialarbeit ein, weil das ein super Modell für mehr Unterstützung ist. Zudem haben die Schulen ein flexibles Schulbudget, aus dem Lernunterstützung zusätzlich geleistet werden kann."},
+        {"party":1,"support":1,"answer":"Mit der Entlastung der Lehrer werden diese sich auch besser um die individuellen Bedürfnisse der Schüler kümmern können. Außerdem wollen wir die Förderschulen erhalten, wo Lernschwächen professionell begleitet werden. Allerdings ist Schule kein Sozialverein. Schwierige persönliche Situationen müssen zuerst in der Familie bewältigt werden."},
+        {"party":2,"support":2,"answer":"Wir werden ein breites Spektrum von Fachkräften im schulischen Umfeld einsetzen, um eine umfassende Betreuung und Förderung der Kinder zu garantieren. Hierzu gehören auch pädagogische und Schulverwaltungsassistenten. Durch diese Zusammenarbeit wollen wir die Bildungsqualität und die Betreuung verbessern."},
+        {"party":3,"support":2,"answer":"[Unsere Partei] steht ohne Wenn und Aber für die individuelle Förderung aller Schüler:innen. Um das am besten zu ermöglichen, setzen wir auf längeres gemeinsames Lernen und einen flächendeckenden Ausbau der Gemeinschaftsschule. Gleichzeitig wollen wir Lehrer:innen von Verwaltungsaufgaben entlasten, damit sie mehr Freiraum für guten Unterricht bekommen. "},
+        {"party":4,"support":2,"answer":"Mit einer Lehrkraft je Klasse sind die vielfältigen Herausforderungen kaum zu schaffen, weswegen wir auf Teamteaching und multiprofessionelle Teams setzen: Lehrkräfte, Erzieher*innen sowie sonder- und sozialpädagogische Fachkräfte, die sich während des Unterrichts gemeinsam, um die individuellen Bedürfnisse in der Klasse kümmern."},
+        {"party":5,"support":2,"answer":"FDP"},
+        {"party":6,"support":2,"answer":"Tierschutz hier!"},
+        {"party":7,"support":2,"answer":"Hier gibt es in der Tat noch viel Handlungsbedarf, sowohl in der sozialen Betreuung als auch z.B. in der schulpsychologischen Betreuung."},
+        {"party":8,"support":2,"answer":"Piraten"},
+        {"party":9,"support":2,"answer":"Eine Aussonderung von Kindern mit Förderbedarf lehnen wir ab. An den Schulen sind viel mehr Räume, Angebote, kleinere Klassen und vor allem mehr Personal bereitzustellen, damit alle Kinder gemeinsam geschult werden können und trotzdem der besondere Betreuungsbedarf berücksichtigt wird."},
+        {"party":10,"support":2,"answer":"Bündnis Deutschland"},
+        {"party":11,"support":2,"answer":"BSW"},
+        {"party":12,"support":2,"answer":"Unser Spitzenkandidat, Sven Seyfarth, weiß als betreffender Familienvater genau, wenn es um persönliche Lernschwächen bei Kindern geht. Als Vater von fünf Kinder sind die Herausforderungen der Art verschwenden, dass je individueller das Lernangebot ist, desto förderlicher für das Kind."},
+        {"party":13,"support":2,"answer":"Freie Wähler"},
+        {"party":14,"support":2,"answer":"Förderschulen sollten gestärkt werden."}
+      ]
+    },
+    {
+      "question": "Unsere Partei setzt sich dafür ein, dass Lehrkräfte über die notwendigen digitalen Kompetenzen verfügen, um Unterricht digital zu gestalten.",
+      "answers":[
+        {"party":0,"support":2,"answer":"Super wichtig. Ohne digitale Kompetenz bei den Lehrkräften keine gelingende Digitalisierung an der Schule."},
+        {"party":1,"support":2,"answer":"Der Umgang mit digitalen Medien und Instrumenten muss in der Ausbildung und Fortbildung der Lehrer besser berücksichtigt werden."},
+        {"party":2,"support":2,"answer":"Den Einsatz digitaler Medien wollen wir gezielt fördern. Deshalb soll der Umgang mit digitalen Medien und KI ein fester Bestandteil der Lehrerbildung sein. Unsere Lehrer müssen mindestens so digital versiert sein, wie ihre Schüler. Die Kapazitäten bestehender Angebote zur Lehrerqualifizierung und -fortbildung in diesem Bereich werden wir erhöhen."},
+        {"party":3,"support":2,"answer":"Die Schule von morgen ist digital. Digitale Bildung muss daher in allen Phasen der Lehrer:innenbildung berücksichtigt werden. Nur entsprechend aus- und fortgebildete Pädagog:innen werden in der Lage sein, das digitale Equipment der Schule nicht nur als technische Ergänzung gewohnter Unterrichtsmaterialien zu sehen, sondern es sinnvoll einzusetzen. "},
+        {"party":4,"support":2,"answer":"Lehrkräfte müssen auch in ihrer Ausbildung auf den Umgang mit digitalen Medien vorbereitet werden, damit sie einen zeitgemäßen und digitalen Unterricht durchführen können. Digitale und datenschutzkonforme Lernmöglichkeiten wollen wir ausbauen und die pädagogischen Inhalte daran anpassen."},
+        {"party":5,"support":2,"answer":"FDP"},
+        {"party":6,"support":2,"answer":"Tierschutz hier!"},
+        {"party":7,"support":2,"answer":"Hier gibt es in der Tat Handlungsbedarf. Oft ist dies leider auch ein Motivationsproblem."},
+        {"party":8,"support":2,"answer":"Piraten"},
+        {"party":9,"support":2,"answer":"Es müssen kostenlose Fortbildungskurse für Lehrkräfte von den entsprechenden Firmen für digitale Geräte zur Verfügung gestellt werden."},
+        {"party":10,"support":2,"answer":"Bündnis Deutschland"},
+        {"party":11,"support":2,"answer":"BSW"},
+        {"party":12,"support":2,"answer":"Intuitives und spielerisches Lernen benötigen auch eine adäquate Ausstattung. Jedoch müssen Lehrer die entsprechenden Digitalkompetenzen mitbringen, bzw. beigebracht bekommen."},
+        {"party":13,"support":2,"answer":"Freie Wähler"},
+        {"party":14,"support":2,"answer":"Ein sinnvolles Nebeneinander zwischen Digital und Manuell soll gewährleistet werden."}
+      ]
+    },
+    {
+      "question": "Unsere Partei setzt sich dafür ein, dass die Medienkompetenz von Schüler:innen, insbesondere im Umgang mit Herausforderungen wie Cybermobbing, Hass und Hetze im Netz gestärkt wird.",
+      "answers":[
+        {"party":0,"support":2,"answer":"Aus diesem Grund hat das von Minister Holter geleitete Bildungsministerium 2024 das neue Fach Medienkunde/Informatik eingeführt. Dieses soll nun schrittweise umgesetzt werden."},
+        {"party":1,"support":2,"answer":"[Unsere Partei] will eine Mentalität der Selbstbehauptung fördern und Menschen ermutigen, ihre Konflikte durch Besonnenheit und Integrität selbst zu lösen. Straftaten wie Beleidigungen müssen auch im Netz konsequent verfolgt werden. Gleichzeitig muss die Meinungsfreiheit gesichert sein und durchgesetzt werden."},
+        {"party":2,"support":2,"answer":"Medien- und Digitalkompetenzen werden wir fördern und den digitalen Wandel aktiv mitgestalten. Dazu gehört Schüler im sicheren Umgang mit Medien auszubilden. Zudem werden wir uns mit geeigneten Partnern für eine Aufklärungs- und Bildungsarbeit sowie den Umgang mit Cybermobbing, Hass und Hetze im Netz einsetzen"},
+        {"party":3,"support":2,"answer":"Medienbildung ist für [unsere Partei] nicht nur eine Frage des Umgangs mit digitalem Equipment oder von Programmierfähigkeiten. Zentral ist für uns gerade die Stärkung der Medienkompetenz von Schüler:innen. Denn nur so werden sie zu einer reflektierten und kritischen Mediennutzung in der Lage sein. "},
+        {"party":4,"support":2,"answer":"Uns ist bewusst, dass bereits Kinder und Jugendliche im Netz mit Hass, Cybermobbing und Fake News konfrontiert sind. Daher können wir hier nicht früh genug ansetzen und wollen Angebote für Medienbildung und Informatik bereits in der Grundschule etablieren. Diese müssen aber durch Angebote zu mentaler Gesundheit ergänzt werden. "},
+        {"party":5,"support":2,"answer":"FDP"},
+        {"party":6,"support":2,"answer":"Tierschutz hier!"},
+        {"party":7,"support":2,"answer":"Ziel muss es, die Heranwachsenden in die Lage zu versetzen, dass sie selbst Angriffe und Ähnliches erkennen. Auch sollten diese in der Lage sein, sich selbst Meinungen milden zu können."},
+        {"party":8,"support":2,"answer":"Piraten"},
+        {"party":9,"support":2,"answer":"Es ist wichtig, Schüler an den Umgang mit moderner Technik besser heranzuführen und den bewussten Umgang zu fördern. Wir wenden uns gegen  sexualisiertes Mobbing und rassistische und faschistische Hetze. Die allgemeine Grundlage liegt im Kapitalismus der egoistisches und rassistisches Denken fördert."},
+        {"party":10,"support":2,"answer":"Bündnis Deutschland"},
+        {"party":11,"support":2,"answer":"BSW"},
+        {"party":12,"support":2,"answer":"Die Vermittlung von Medienkompetenzen ist unerlässlich für die Nutzung digitaler Medien. Ob Schüler oder Lehrkraft. "},
+        {"party":13,"support":2,"answer":"Freie Wähler"},
+        {"party":14,"support":2,"answer":"Einrichten von AG´s und Vermittlung der Werte eines jenen Menschen."}
+      ]
+    },
+    {
+      "question": "Unsere Partei setzt sich dafür ein, dass eine Grundausstattung mit digitalen Geräten und WLAN an Schulen realisiert und finanziert wird, ohne dass Familien dabei finanziell belastet werden.",
+      "answers":[
+        {"party":0,"support":2,"answer":"Das war ein Vorschlag unseres Gesetzentwurfes zur SchulgesetzÄnderung 2022 (digitale Lernmittelfreiheit). Leider gab es wegen der Ablehnung der CDU dafür keine Mehrheit im Landtag."},
+        {"party":1,"support":2,"answer":"[Unsere Partei] steht der Digitalisierung in Schulen differenziert gegenüber. Digitalisierung ist nur dort sinnvoll, wo sie die Entwicklung der Kinder nicht beeinträchtigt. Eine [Regierung unserer Partei] wird dafür sorgen, dass Investitionen in die Digitalisierung der Schulen keine finanziellen Mehrbelastungen der Familien zur Folge haben."},
+        {"party":2,"support":2,"answer":"Wir wollen, dass in den Schulen mit moderner Technik gelehrt und gelernt wird. Mit einem Sonderförderprogramm “Digitale Schule” wollen wir eine Investitions- und Digitalisierungsoffensive starten. Hierzu gehört auch, dass Schüler ab der 5. Klasse entweder ein eigenes digitales Endgerät besitzen oder ein Leihgerät erhalten."},
+        {"party":3,"support":2,"answer":"[Unsere Partei] wird gemeinsam mit dem Bund dafür sorgen, dass die Schulen schnellstmöglich mit Gigabit-Anschlüssen ausgestattet werden sowie eine zeitgemäße und zukunftsoffene digitale Ausstattung erhalten. Um die Digitalität in den Schulen weiter voranzubringen, braucht es außerdem eine Ausweitung der Lernmittelfreiheit auf digitale Geräte. "},
+        {"party":4,"support":1,"answer":"Gutes WLAN muss in Schulen Standard werden. Das Land sollte daher weiterhin gezielte Investitionen in digitale Infrastruktur und Medien unterstützen. Außerdem ist es Aufgabe des Landes, sicherzustellen, dass jedes Kind in der Schule an einem digitalen Endgerät arbeiten kann. "},
+        {"party":5,"support":2,"answer":"FDP"},
+        {"party":6,"support":2,"answer":"Tierschutz hier!"},
+        {"party":7,"support":1,"answer":"WLAN da, wo es keine Alternativen gibt. Digitale Geräte erst nach der Grundschule. Kinder haben auch ein Recht auf eine analoge Kindheit!"},
+        {"party":8,"support":2,"answer":"Piraten"},
+        {"party":9,"support":2,"answer":"Wir sind für technische Ausstattungen an Schulen, um den Schülern den Umgang mit digitalen Geräten näher zu bringen. Betriebe und Behörden schmeißen oftmals noch nutzbare Geräte usw. einfach weg, weil sie nicht die allerneusten sind. Dabei sollte  aber auch die Förderung und Entwicklung handwerklicher Fähigkeiten nicht vernachlässigt werden. "},
+        {"party":10,"support":2,"answer":"Bündnis Deutschland"},
+        {"party":11,"support":2,"answer":"BSW"},
+        {"party":12,"support":2,"answer":"Die Familien tragen grundsätzlich schon die größte Last der Erziehungskosten. Eine Grundausstattung gehört für uns staatlich finanziert."},
+        {"party":13,"support":2,"answer":"Freie Wähler"},
+        {"party":14,"support":2,"answer":"Hier sollte der Bund besser unterstützen, da die Kommunen am Limit sind."}
+      ]
+    },
+    {
+      "question": "Unsere Partei setzt sich dafür ein, dass die Unterstützung für von Armut betroffene Kinder und Jugendliche ausgeweitet wird.",
+      "answers":[
+        {"party":0,"support":2,"answer":"Wir setzen uns auf Bundesebene für eine Kindergrundsicherung ein. In Thüringen wollen wir regionales gesundes und kostenfreies Essen, sowie kostenfreien ÖPNV."},
+        {"party":1,"support":2,"answer":"Familienpolitik ist für uns zentral. Wir fordern Steuersenkungen zur Entlastung von Familien sowie Rentenvorteile für Eltern. Wir befürworten u.a. ein Kinderbegrüßungsgeld in Höhe von insgesamt 10.000 Euro, ein staatliches Wohneigentums-Darlehen für Familien, das mit steigender Kinderanzahl schrittweise erlassen wird, sowie günstige Energiepreise."},
+        {"party":2,"support":2,"answer":"Wir wollen die Familienarmut zielgerichtet bekämpfen. Dies gelingt indem beide Eltern berufstätig sind. Darüber hinaus bedarf es flächendeckende Beratungs- und Unterstützungsangebote für in Not geraten Familien. Diese thüringenweiten Strukturen sowie die bedarfsorientierte finanzielle Ausstattung wollen wir sicherstellen."},
+        {"party":3,"support":2,"answer":"Viel zu viele Kinder und Jugendliche leben mit ihren Familien in schwierigen sozialen Verhältnissen, an der Armutsgrenze oder in Armut. Wir wollen sie besser und zielgenauer unterstützen, ihnen Chancen- und Bildungsgerechtigkeit bieten und gleichberechtigte Teilhabe ermöglichen. "},
+        {"party":4,"support":2,"answer":"Wir wollen, dass Schüler*innen Lernmaterial kostenlos erhalten. Im Bund setzen wir uns für die Kindergrundsicherung ein, damit kein Kind in einem reichen Land wie Deutschland in Armut lebt. Außerdem wollen wir, dass schulischer Erfolg nicht von der Herkunft abhängt, z.B. durch mehr Ganztags- und Gemeinschaftsschulen und mehr individuelle Förderung."},
+        {"party":5,"support":2,"answer":"FDP"},
+        {"party":6,"support":2,"answer":"Tierschutz hier!"},
+        {"party":7,"support":2,"answer":"Das muss über die Familien passieren. Leider zeigen viele Vorfälle immer wieder, dass hier der Staat seiner Verantwortung noch nicht ausreichend gerecht wird. Zu selten werden Teufelskreise aufgebrochen."},
+        {"party":8,"support":2,"answer":"Piraten"},
+        {"party":9,"support":2,"answer":"Das Kinder- und auch das Bürgergeld müssen wegen der Inflation um 20% erhöht werden. Für eine Mindestsicherung von 1.150 Euro. Junge Menschen, die eine Ausbildung machen,  müssen von der Ausbildungsbeihilfe leben können und nicht vom Einkommen der Eltern abhängig sein. Wir erziehen Jugendliche aber auch gegen Faulheit und Schmarotzertum. "},
+        {"party":10,"support":2,"answer":"Bündnis Deutschland"},
+        {"party":11,"support":2,"answer":"BSW"},
+        {"party":12,"support":2,"answer":"Jedes Kind muss die gleiche Chance haben. Wir kämpfen daher für ein sozialversichertes Erziehungsgehalt und ein angemessenes Kindergel, neben einer kostenlosen, warmen Mahlzeit am Tag. Kinder sind das größte Armutsrisiko in unserer Gesellschaft. Eine Schande. "},
+        {"party":13,"support":2,"answer":"Freie Wähler"},
+        {"party":14,"support":2,"answer":"Menschen in Not muss geholfen werden"}
+      ]
+    },
+    {
+      "question": "Unsere Partei setzt sich dafür ein, dass Geschlechterstereotype abgebaut werden, und dass sichergestellt wird, dass Personen aller Geschlechter in allen Lebensbereichen, insbesondere im Beruf und in der Bezahlung, tatsächlich gleichberechtigt sind.",
+      "answers":[
+        {"party":0,"support":2,"answer":"Wir wollen den gleichen Lohn für gleiche Arbeit. Schluss mit Niedriglöhnen, geschlechtsspezifischen Lohngefälle, Werkverträgen, Leiharbeit und sachgrundlosen Befristungen. Wir wollen das Landesprogramm „Akzeptanz und Vielfalt“ verstetigen. "},
+        {"party":1,"support":0,"answer":"Männer und Frauen sind biologisch verschieden, woraus sich unterschiedliche Stärken, Schwächen und Aufgaben in der Gesellschaft ergeben. Wir wollen die positive Identitätsbildung von Männern und Frauen schützen, nicht abbauen. Ihre Gleichwertigkeit und Gleichheit vor dem Gesetz bleiben im Rechtsstaat selbstverständlich. Quoten lehnen wir ab."},
+        {"party":2,"support":2,"answer":"Der Abbau von geschlechterspezifischen Ungleichheiten in allen gesellschaftlichen Bereichen ist für uns Ziel und eine Selbstverständlichkeit. Gleichstellung unabhängig des Geschlechts ist leider in vielen Bereichen immer noch nicht Realität. Deshalb werden wir bestehende Ungerechtigkeiten, gerade im Bereich der Entlohnung aktiv angehen und abbauen."},
+        {"party":3,"support":2,"answer":"Wenn es um Bezahlung oder Karriere-Chancen geht, darf das Geschlecht keine Rolle spielen. Unser Ziel ist eine Gesellschaft, in der gleiche Chancen für alle selbstverständlich sind und niemand aufgrund des Geschlechts diskriminiert wird. Wir fördern die Vereinbarkeit von Familie und Beruf durch die Beitragsfreiheit von Kindergarten und Hort.  "},
+        {"party":4,"support":2,"answer":"Geschlechterstereotype schaden allen Geschlechtern – wenn auch nicht im gleichen Maße – und müssen abgebaut werden, damit alle Menschen frei und sicher leben können. Wir wollen die finanzielle Benachteiligung von Frauen beenden, indem wir die Vereinbarkeit von Familie/Pflege und Beruf verbessern und Frauen im Arbeitsmarkt gezielt fördern."},
+        {"party":5,"support":2,"answer":"FDP"},
+        {"party":6,"support":2,"answer":"Tierschutz hier!"},
+        {"party":7,"support":1,"answer":"Wir sehen es eher kritisch, dass man aktuell oft schon die Aspekte des Geschlechts und der sexuellen Orientierung, Neigungen und Vorlieben zusammen in einen Topf wirft, diesen kräftig rumrührt und daraus eine undefinierte Zahl an „Geschlechtern“ definiert. Damit erreicht man nicht die angestrebten Ziele, sondern produziert nur Ablehnung."},
+        {"party":8,"support":2,"answer":"Piraten"},
+        {"party":9,"support":2,"answer":"Gegen geschlechterspezifisches Mobbing, für das Recht auf sexuelle Selbstbestimmung. Gleiche Bezahlung für Mann und Frau. "},
+        {"party":10,"support":2,"answer":"Bündnis Deutschland"},
+        {"party":11,"support":2,"answer":"BSW"},
+        {"party":12,"support":2,"answer":"Am Ende sind wir alle gleich und sind entsprechend zu behandeln."},
+        {"party":13,"support":2,"answer":"Freie Wähler"},
+        {"party":14,"support":2,"answer":"Jeder Mensch hat den gleichen Wert für uns."}
+      ]
+    },
+    {
+      "question": "Unsere Partei setzt sich dafür ein, dass alle Menschen, unabhängig von Geschlecht, Herkunft, Religion oder finanziellen Möglichkeiten, die gleichen Chancen auf Bildung, Beruf und gesellschaftliche Teilhabe erhalten und frei von Mobbing und Diskriminierung leben können.",
+      "answers":[
+        {"party":0,"support":2,"answer":"Um den Arbeitsmarkt für Zugewanderte attraktiv zu machen, bedarf es unter anderem der Umsetzung der Handlungsempfehlungen der Enquete-Kommission Rassismus im Bereich der Arbeitsmarktpolitik. Weiterhin wollen wir ein Gleichstellungs- und Antidiskriminerungsmonitoring im Bildungsbereich etablieren."},
+        {"party":1,"support":1,"answer":"[Unsere Partei] steht zum weltanschaulich neutralen Rechtsstaat des Grundgesetzes. Das heißt, dass die Gleichheit vor dem Gesetz gilt. Es ist jedoch nicht staatliche Aufgabe, alle Lebensbereiche zu durchdringen und dort subjektive Vorstellungen von Gerechtigkeit und Gleichheit durchzusetzen. Ein solches Staatsverständnis lehnt [unsere Partei] als totalitär ab."},
+        {"party":2,"support":2,"answer":"Wir stehen für eine pluralistische Gesellschaft und wollen Zusammenhalt statt Spaltung. Die Gleichberechtigung unabhängig des Geschlechts, Herkunft, Religion oder finanziellen Möglichkeiten ist für uns selbstverständlich. Zudem treten wir jeder Form von Diskriminierung und Mobbing entschlossen entgegen."},
+        {"party":3,"support":2,"answer":"[Unsere Partei] steht klar für kostenfreie Bildung – vom Kindergarten über die Schule bis hin zur Ausbildung oder zum Studium. Wir kämpfen gegen jede Form von Hasskriminalität, Diskriminierung und Mobbing. Deshalb setzen wir uns für mehr Aufklärungsprojekte in der Schule, den Ausbau der Jugendarbeit und für besser finanzierte Beratungsstellen ein. "},
+        {"party":4,"support":2,"answer":"Leider werden immer noch zu viele Menschen wirtschaftlich und politisch benachteiligt, haben weniger Chancen und müssen gegen Gewalt und Diskriminierung kämpfen. Daher wollen wir das Landesprogramm Akzeptanz und Vielfalt weiterentwickeln, Antidiskriminierungsarbeit intensivieren und den Schutz vor häuslicher und sexueller Gewalt stärken."},
+        {"party":5,"support":2,"answer":"FDP"},
+        {"party":6,"support":2,"answer":"Tierschutz hier!"},
+        {"party":7,"support":2,"answer":"Volle Zustimmung. Dem ist nichts hinzuzufügen."},
+        {"party":8,"support":2,"answer":"Piraten"},
+        {"party":9,"support":2,"answer":"Wir beurteilen Menschen nicht nach ihrem Geschlecht oder ihrer Herkunft! Faschisten wie von der AfD fördern heute eine egoistische Denkweise, die solche Diskriminierung fördert. Diskriminierung dauerhaft beenden und eine umfassende gesellschaftliche Teilhabe wird zugleich erst im echten Sozialismus/ Kommunismus möglich sein. "},
+        {"party":10,"support":2,"answer":"Bündnis Deutschland"},
+        {"party":11,"support":2,"answer":"BSW"},
+        {"party":12,"support":2,"answer":"Jedes Mitglied unserer Gesellschaft sollte genau diesen Anspruch haben. Wir fördern jegliche Initiativen, die das Miteinander der Menschen fördert und die Interessen des Einzelnen wahren. Bildung ist ein Schlüssel für eine friedvollere Gesellschaft."},
+        {"party":13,"support":2,"answer":"Freie Wähler"},
+        {"party":14,"support":2,"answer":"Wir stehen für freie Entscheidungen eines jenen Einzelnen."}
+      ]
+    },
+    {
+      "question": "Unsere Partei setzt sich dafür ein, dass für Kinder und Jugendliche ein günstigeres oder gar kostenfreies Bus- und Bahnfahren möglich wird.",
+      "answers":[
+        {"party":0,"support":2,"answer":"Unser langfristiges Ziel ist ein kosten- und ticketloser ÖPNV für alle. Auf dem Weg dahin werden wir Tarifstrukturen sichern, vergünstigte Tickets für einzelne Gruppen als Einstieg anbieten und Angebote für 1 Euro pro Tag einführen. In einem ersten Schritt wollen wir ein landesweites 28-Euro-Ticket für junge Menschen bis zum 28. Lebensjahr anbieten."},
+        {"party":1,"support":1,"answer":"Wir fordern den kostenlosen Transport von Schülern zur Schule und wieder zurück, was nicht nur die nächstgelegene, sondern auch die Wahlschule umfassen soll. Außerdem setzen wir uns für ein kostenfreies Azubi-Ticket ein. Unsere Politik zielt im Übrigen darauf ab, dass die individuelle Mobilität erschwinglich bleibt."},
+        {"party":2,"support":2,"answer":"Wir setzen uns für mehr Mobilität für Jugendliche ein und werden wir ein “Jugend-Ticket” einführen, mit dem Schüler ab Klasse 11, Azubis und Studenten für 1 € pro Tag das ganze Jahr den ÖPNV nutzen können."},
+        {"party":3,"support":2,"answer":"[Unsere Partei] setzt sich für eine schrittweise Kostenfreiheit für Kinder und Jugendliche bei der Nutzung des ÖPNV in Thüringen ein."},
+        {"party":4,"support":2,"answer":"Mobil zu sein bedeutet auch, am sozialen Leben teilhaben zu können. Daher wollen wir so schnell wie möglich ein vergünstigtes Deutschlandticket für Familien mit Kindern einführen. Langfristig wollen wir, dass Schüler*innen, Azubis, Freiwilligendienstleistende und Studierende Bus und Bahn kostenlos nutzen können."},
+        {"party":5,"support":2,"answer":"FDP"},
+        {"party":6,"support":2,"answer":"Tierschutz hier!"},
+        {"party":7,"support":2,"answer":"Kostenloser ÖPNV für Kinder und Jugendliche, aber auch für Senioren, wie z.B. in Großbritannien."},
+        {"party":8,"support":2,"answer":"Piraten"},
+        {"party":9,"support":2,"answer":"Wir sagen: Öffentlicher Nahverkehr zum Nulltarif sofort! Zahlen müssen die großen Unternehmen."},
+        {"party":10,"support":2,"answer":"Bündnis Deutschland"},
+        {"party":11,"support":2,"answer":"BSW"},
+        {"party":12,"support":2,"answer":"Wir unterstützen jegliche Bestrebungen, die den ÖPNV günstiger gestalten. Mobilität ist ein Wesenselement einer funktionierenden Gesellschaft und ermöglicht ihre Teilhabe. Je normaler Bus und Bahn gesellschaftlich akzeptiert erden, desto besser. Aber dafür muss er funktionieren!"},
+        {"party":13,"support":2,"answer":"Freie Wähler"},
+        {"party":14,"support":2,"answer":"Kinder sollten frei Bus und Bahn fahren dürfen"}
+      ]
+    },
+    {
+      "question": "Unsere Partei setzt sich dafür ein, dass die Bus- und Bahnverbindungen zu und von Dörfern verbessert wird.",
+      "answers":[
+        {"party":0,"support":2,"answer":"Wir setzen uns dafür ein, den öffentlichen Nahverkehr so zu gestalten, dass gerade in ländlichen Regionen innovative Angebote den Linienverkehr ergänzen, damit Erreichbarkeit bis in das letzte Dorf garantiert werden wird."},
+        {"party":1,"support":2,"answer":"[Unsere Partei] setzt sich für Investitionen in die Verkehrsanbindung im ländlichen Raum ein. Um die individuelle Mobilität zu erhalten, kommt es vor allem darauf an, das Verbrennerverbot ab 2035 zu stoppen und die Spritpreise niedrig zu halten"},
+        {"party":2,"support":2,"answer":"Wir wollen den ÖPNV besser machen und werden in ein modernes und klimaschonendes Bus- und Bahnangebot, gerade im ländlichen Raum investieren. Hierzu gehören für uns der Ausbau, die Modernisierung und die Elektrifizierung der Infrastruktur sowie die Anschaffung neuer Fahrzeuge. Auf Bundesebene werden wir uns für eine dringend notwendige Erhöhung der Regionalisierungsmittel einsetzen"},
+        {"party":3,"support":2,"answer":"Wir unterstützen die Kommunen bei der Verkehrswende und hier insbesondere bei der Förderung Neuanschaffung von Straßenbahnen und Bussen sowie der Umrüstung und dem Erhalt der Infrastruktur"},
+        {"party":4,"support":2,"answer":"Unser Ziel ist, dass alle Menschen in Thüringen Bus und Bahn nutzen können. Und das bequem, flexibel und bezahlbar. Deshalb wollen wir die Thüringer Mobilitätsgarantie und mehr Angebote, sodass jedes Dorf mindestens einmal jede Stunde zwischen 5 und 22:30 Uhr mit Bus, Bahn, Rufbus oder Taxiangeboten erreicht werden kann."},
+        {"party":5,"support":2,"answer":"FDP"},
+        {"party":6,"support":2,"answer":"Tierschutz hier!"},
+        {"party":7,"support":2,"answer":"Grundsätzliche Zustimmung. Für sehr kleine Dörfer braucht es jedoch andere Ansätze als Bus- und Bahn (im Linienverkehr)."},
+        {"party":8,"support":2,"answer":"Piraten"},
+        {"party":9,"support":2,"answer":"Ausbau der öffentlichen Verkehrsanbindung an die Städte im Stundentakt. Wir fordern besonders die  Einstellung Geflüchteter oder Langzeitarbeitsloser zu diesem Zwecke. "},
+        {"party":10,"support":2,"answer":"Bündnis Deutschland"},
+        {"party":11,"support":2,"answer":"BSW"},
+        {"party":12,"support":1,"answer":"Im Einzelfall ist zu prüfen, ob Verkehrsanbindungen sinnvoll sind. Häufig wird „heiße Luft“ bewegt. Zuerst muss der gut funktionierende Verkehr ausgebaut werden und dann gilt es ein entsprechendes Mobilitätsangebot zu eröffnen. Solange der ÖPNV unterfinanziert ist, gilt es den Status Quo aufrechtzuerhalten. Alles andere sind leere Versprechungen."},
+        {"party":13,"support":2,"answer":"Freie Wähler"},
+        {"party":14,"support":2,"answer":"Bus und Bahnverkehr auf den meisten Dörfern ist katastrophal. Das Angebot möchten wir verbessern"}
+      ]
+    },
+    {
+      "question": "Unsere Partei setzt sich dafür ein, dass junge Menschen bei Themen, die sie selbst betreffen (bspw. Freizeit- und Sportanlagen, Spielplätze, Schulalltag) noch mehr und aktiver mitbestimmen können.",
+      "answers":[
+        {"party":0,"support":2,"answer":"Alle Aktivitäten und Maßnahmen in Gesellschaft und Staat sollen diejenigen Menschen mitbestimmen und mitgestalten, die von den Auswirkungen der jeweiligen Entscheidungen betroffen sind."},
+        {"party":1,"support":1,"answer":"Es gibt bereits zahlreiche Möglichkeiten der Mitbestimmung. Jugendliche sollten aber ermutigt werden, diese besser zu nutzen. Indem wir den Kommunen mehr Entscheidungs- und Selbstgestaltungsmöglichkeiten einräumen, wird es für junge Menschen attraktiver, sich vor Ort zu engagieren, wenn sie sehen, dass ihr Einsatz direkt Früchte trägt."},
+        {"party":2,"support":2,"answer":"Wir wollen Betroffene zu Beteiligten machen und wollen die unmittelbare Bürgerpartizipation bei der Planungsphase 0 im Rahmen der einzelnen Projektphasen mit Landesbeteiligung weiter intensivieren."},
+        {"party":3,"support":1,"answer":"[Unsere Partei] hat bereits für Änderungen der Kommunalordnung gesorgt, durch die Kinder und Jugendliche auf kommunaler Ebene bei Planungen und Vorhaben, die ihre Interessen berühren, beteiligt werden müssen. Auf Landesebene gibt es mit dem Jugend-Check ein weiteres Mitbestimmungsinstrument. Wir werden prüfen, ob hier noch Verbesserungsbedarf besteht. "},
+        {"party":4,"support":2,"answer":"Junge Menschen haben berechtigte politische Interessen, die nicht immer berücksichtigt werden. Deshalb möchten wir mit unserer Politik ihre Rechte stärken und ihnen vielfältige Perspektiven und Chancen hierfür bieten. Dafür wollen wir Kinder- und Jugendparlamente stärken und die Beteiligung von jungen Menschen an politischen Prozessen verbessern. "},
+        {"party":5,"support":2,"answer":"FDP"},
+        {"party":6,"support":2,"answer":"Tierschutz hier!"},
+        {"party":7,"support":1,"answer":"Die Möglichkeiten sind eigentlich schon da. Sie müssen nur konsequenter genutzt werden."},
+        {"party":8,"support":2,"answer":"Piraten"},
+        {"party":9,"support":2,"answer":"Wir fördern dass die Jugend sich in selbstständigen Vereinen und Massenorganisationen organisiert. Z.B. in Nachbarschaftstreffs oder selbstverwalteten Jugendzentren auf antifaschistischer Grundlage. Dabei sollte gelten: Gib Antikommunismus, Rassismus und Antisemitismus keine Chance!"},
+        {"party":10,"support":2,"answer":"Bündnis Deutschland"},
+        {"party":11,"support":2,"answer":"BSW"},
+        {"party":12,"support":2,"answer":"Wir setzen uns für die Bildung und Stärkung von Jugendparlamenten ein, in dem solche Anliegen zuvörderst beraten und beschlossen werden können. Demokratie lebt von Mitmachen! Dafür braucht es geeignete Plattformen."},
+        {"party":13,"support":2,"answer":"Freie Wähler"},
+        {"party":14,"support":2,"answer":"Wir stehen für freie Entscheidungen"}
+      ]
+    },
+    {
+      "question": "Unsere Partei setzt sich dafür ein, dass es eine Absenkung des Wahlalters für Landtagswahlen geben wird.",
+      "answers":[
+        {"party":0,"support":2,"answer":"[Unsere Partei] tritt schon sehr lange für P 16 bei Landtagswahlen ein, leider ist hierfür im Landtag eine Zweidrittelmehrheit nötig, die es bislang nicht gibt."},
+        {"party":1,"support":0,"answer":"Wir sind der Auffassung, dass sich die Verknüpfung des Wahlrechts an die Volljährigkeit bewährt hat. Um fundierte Wahlentscheidungen treffen zu können, bedarf es eines gewissen Maßes an Lebenserfahrung und Verantwortlichkeit, die Minderjährige oft noch nicht aufbringen."},
+        {"party":2,"support":0,"answer":"Entscheidend für die demokratische Legitimation ist, dass Wähler urteils- und einsichtsfähig sind. Grundlage dafür ist die unbeschränkte Geschäfts- und Deliktsfähigkeit sowie die Strafmündigkeit ab 18. Andernfalls entstünde ein Widerspruch, wenn das Wahlrecht mit 16 verliehen wird, aber Handy- oder Mietverträge nicht abgeschlossen werden können."},
+        {"party":3,"support":2,"answer":"Junge Menschen gehören ins Zentrum unserer Gesellschaft – mit all ihren Interessen und Bedürfnissen. Damit sie ihre Belange auch wirksam vertreten können, brauchen sie adäquate Partizipationsmöglichkeiten bei politischen Entscheidungen. [Unsere Partei] steht daher für die Einführung des Wahlrechts ab 16 bei Landtagswahlen."},
+        {"party":4,"support":2,"answer":"Damit Kinder und Jugendliche sich wirksam für ihre Interessen einsetzen können, muss es ihnen möglich gemacht werden, sich einzubringen. Dazu gehört für uns auch eine Absenkung des Wahlalters. Wir konnten dieses bereits für Kommunalwahlen auf 16 absenken und setzen uns für eine weitere Absenkung bei Landtags- und Kommunalwahlen auf 14 Jahre ein."},
+        {"party":5,"support":2,"answer":"FDP"},
+        {"party":6,"support":2,"answer":"Tierschutz hier!"},
+        {"party":7,"support":1,"answer":"Wählen ab 16 bei Kommunalwahlen ist aus Sicht vieler unserer Mitglieder ausreichend. Unsere Programmlage gibt hier eine eher knappe Mehrheitsmeinung wieder."},
+        {"party":8,"support":2,"answer":"Piraten"},
+        {"party":9,"support":2,"answer":"[Unsere Partei] tritt seit Jahrzehnten allgemein für die Absenkung der Volljährigkeit und damit auch des Wahlalters auf 16 Jahre ein. Ab diesem Alter fangen viele eine Ausbildung an. "},
+        {"party":10,"support":2,"answer":"Bündnis Deutschland"},
+        {"party":11,"support":2,"answer":"BSW"},
+        {"party":12,"support":1,"answer":"Eine Absenkung des Wahlalters halten wir für angemessen. Die Europawahl zeigt, wie verantwortungsbewusst viele junge Menschen sind. "},
+        {"party":13,"support":2,"answer":"Freie Wähler"},
+        {"party":14,"support":2,"answer":"Wir sind offen für sinnvolle Lösungen"}
+      ]
+    },
+    {
+      "question": "Unsere Partei setzt sich dafür ein, dass die Berufsvorbereitung an Schule verbessert wird (z.B. bessere Berufsvorbereitung, -beratung, Praktika).",
+      "answers":[
+        {"party":0,"support":2,"answer":"Eine verbindliche berufliche Orientierung an allen allgemeinbildenden Schulen eröffnet den Jugendlichen die Möglichkeit, ihre Potentiale zu entwickeln und eine qualifizierte Berufswahlentscheidung zu treffen. Mit dem „Tag in der Praxis“ wurde in Thüringen das praxisorientierte Lernen gestärkt."},
+        {"party":1,"support":2,"answer":"[Unsere Partei] will die Kooperation zwischen Schulen und Akteuren aus der regionalen Wirtschaft, besonders dem Handwerk, stärken. Verpflichtende Praktika sollen wie auch praktische Unterrichtsinhalte ausgeweitet werden."},
+        {"party":2,"support":2,"answer":"Berufsmöglichkeiten müssen im Unterricht besser vermittelt werden. Deshalb werden wir Projekte die eine stärkere Zusammenarbeit von Unternehmen, Schulen und Schülern ermöglichen, wie z. B. Jugend-Unternehmenswerkstätten, ausbauen. Zusätzlich wollen wir den “Tag in der Praxis” thüringenweit einführen."},
+        {"party":3,"support":1,"answer":"Schulgesetz und Schulordnung legen bereits jetzt einen Fokus auf Berufsorientierung und Berufsvorbereitung. Diese Vorgaben werden aber leider an den Schulen unterschiedlich gehandhabt. [Unsere Partei] wird hier für mehr Verbindlichkeit sorgen. "},
+        {"party":4,"support":1,"answer":"Jugendliche müssen häufig schon früh entscheiden, wie es nach der Schule weitergehen soll. Damit sie diese Entscheidung gut treffen können, wollen wir in Schulen die frühzeitige Berufsorientierung gemeinsam mit Praxispartner*innen weiter ausbauen, beispielsweise durch Tage in der Praxis."},
+        {"party":5,"support":2,"answer":"FDP"},
+        {"party":6,"support":2,"answer":"Tierschutz hier!"},
+        {"party":7,"support":1,"answer":"Die Möglichkeiten sind eigentlich schon da. Es hapert leider oft an der Umsetzung."},
+        {"party":8,"support":2,"answer":"Piraten"},
+        {"party":9,"support":2,"answer":"Wir fordern, das Schülerinnen und Schüler einen Schultag pro Woche dafür nutzen, praktische Abläufe eines Betriebs, in Industrie, Landwirtschaft oder Handwerk, kennen zu lernen."},
+        {"party":10,"support":2,"answer":"Bündnis Deutschland"},
+        {"party":11,"support":2,"answer":"BSW"},
+        {"party":12,"support":2,"answer":"Allein zum Zwecke der besseren Berufsorientierung sind solche Angebote stets zu fördern!"},
+        {"party":13,"support":2,"answer":"Freie Wähler"},
+        {"party":14,"support":2,"answer":"Wir wollen mehr Zeit für Praktisches"}
+      ]
+    },
+    {
+      "question": "Unsere Partei setzt sich dafür ein, dass im Klimaschutz noch mehr tatsächlich getan wird.",
+      "answers":[
+        {"party":0,"support":2,"answer":"Wir erkennen den menschengemachten Klimawandel und dessen Folgen an und setzten uns aktiv für Gegenmaßnahmen ein. Wir fordern die zügige Umsetzung der Maßnahmen des EU-Programm Fit-for-55 auf nationaler Ebene, wie der Gesamtenergieeffizienzrichtlinie von Gebäuden und dem Aus für den Verbrennungsmotor - stets im Einklang mit sozialer Gerechtigkeit"},
+        {"party":1,"support":0,"answer":"Das Klima kann von Thüringen oder Deutschland aus nicht „gerettet“ werden. Klimapolitik und Energiewende führen lediglich zur Zerstörung unserer Wirtschaft und damit unseres Wohlstands. Das lehnt [unsere Partei] ab. Stattdessen wollen wir in die Anpassung an den Klimawandel, beispielsweise in die Wiederbewaldung mit geeigneten Baumarten, investieren."},
+        {"party":2,"support":2,"answer":"Gelingender Klimaschutz ist eine zentrale gesamtgesellschaftliche Herausforderung für uns alle. Unsere Überzeugung ist: Nur, wenn wir Anstrengungen zum Klimaschutz mit einem Mehr an Wohlstand verbinden können, wird Deutschland ein positives Beispiel für die weltweiten Anstrengungen zum Klimaschutz sein."},
+        {"party":3,"support":2,"answer":"[Unsere Partei] setzt sich stark für die Erhaltung unserer natürlichen Lebensgrundlagen ein. Wir stehen zum Pariser Klimaabkommen und möchten die Weichen für eine CO2-neutrale Zukunft stellen. Gleichzeitig wollen wir diese Transformation sozial verträglich gestalten: Klimaschutzmaßnahmen sollen nicht zulasten der Mehrheit der Bevölkerung gehen. "},
+        {"party":4,"support":2,"answer":"Gerade junge Menschen werden immer mehr Hitzewellen, Starkregen und immer weniger Schneetage im Winter erleben. Deshalb wollen wir mehr Geld für Investitionen in Klimaschutz ausgeben. Die Energiewende bringen wir voran, sodass unsere Stromversorgung bis 2035 bilanziell 100 Prozent aus Erneuerbaren Energien kommt."},
+        {"party":5,"support":2,"answer":"FDP"},
+        {"party":6,"support":2,"answer":"Tierschutz hier!"},
+        {"party":7,"support":2,"answer":"Wir müssen aber auch darüber diskutieren, welche Maßnahmen wirklich sinnvoll sind. Außerdem muss stärker die Rohstofffrage mitbetrachtet werden."},
+        {"party":8,"support":2,"answer":"Piraten"},
+        {"party":9,"support":2,"answer":"Angesagt ist  eine regelrechte Kehrtwende, die bürgerliche Umweltpolitik nimmt mutwillig die Zerstörung der Lebensgrundlage der Menschheit in Kauf. Die globale Umweltkatastrophe hat  begonnen! Hauptverursacher sind die Konzerne und Superreichen. Die Rettung der Menschheit wird letztlich nur in einer sozialistischen Gesellschaft möglich sein."},
+        {"party":10,"support":2,"answer":"Bündnis Deutschland"},
+        {"party":11,"support":2,"answer":"BSW"},
+        {"party":12,"support":1,"answer":"Im EU-Parlament stimmten wir nicht ohne Grund für die Renaturierung von Flächen. Umwelt- und Naturschutz sind für uns von herausragender Bedeutung. Klimaschutz funktioniert jedoch nur auf internationaler Ebene. Es muss um Effektivität gehen, nicht Symbolpolitik!"},
+        {"party":13,"support":2,"answer":"Freie Wähler"},
+        {"party":14,"support":2,"answer":"Kinder sollen aktiv mehr eingebunden werden"}
+      ]
+    },
+    {
+      "question": "Unsere Partei setzt sich dafür ein, dass es mehr Jugendclubs – besonders auf Dörfern – gibt.",
+      "answers":[
+        {"party":0,"support":2,"answer":"Gerade im ländlichen Raum fehlen Angebote für Kinder und Jugendliche. [Unsere Partei] möchte vernetzte Angebote im ländlichen Raum für Jung und Alt schaffen."},
+        {"party":1,"support":1,"answer":"[Unsere Partei] will vor allem der kommunalen Ebene mehr Handlungsspielräume einräumen, auch durch Sicherung einer auskömmlichen Finanzierung. Dadurch werden auch kleinere Gemeinden in die Lage versetzt, der örtlichen Jugend mehr zu bieten."},
+        {"party":2,"support":2,"answer":"Jugendclubs sind im ländlichen Raum neben den Sportvereinen und der Feuerwehr der zentrale Anlaufpunkt für junge Menschen. Deshalb begrüßen wir Forderung in den Dörfern neue Jugendclub zu gründen ausdrücklich. Dieses Engagement werden wir innerhalb der Örtlichen Jugendförderung durch Landesmittel auch weiterhin proaktiv unterstützen."},
+        {"party":3,"support":2,"answer":"[Unsere Partei] wird die Offene Kinder- und Jugendarbeit sowie die Arbeit der Jugendverbände weiter unterstützen und finanziell besser fördern. Außerdem wollen wir ein Investitionsprogramm für Einrichtungen der offenen Jugendarbeit in den Kommunen auflegen, um für zeitgemäße Jugendeinrichtungen zu sorgen – gerade auch im ländlichen Raum."},
+        {"party":4,"support":2,"answer":"Freiräume und offene Angebote der Kinder- und Jugendarbeit sind entscheidend für die soziale Entwicklung von jungen Menschen. Kinder und Jugendliche sollen daher, egal ob auf dem Land oder in der Stadt, Zugang zu Jugendclubs haben. Besonders in Dörfern und kleinen Städten wollen wir die bestehenden Angebote finanziell absichern."},
+        {"party":5,"support":2,"answer":"FDP"},
+        {"party":6,"support":2,"answer":"Tierschutz hier!"},
+        {"party":7,"support":2,"answer":"Das ist allerdings eine Aufgabe der Kommunen."},
+        {"party":8,"support":2,"answer":"Piraten"},
+        {"party":9,"support":2,"answer":"Es muss mehr Geld für Freizeitangebote zur Finanzierung für Jugendclubs auf antifaschistischer Grundlage und für einkommensschwache Familien geben – auf dem Land und in der Stadt."},
+        {"party":10,"support":2,"answer":"Bündnis Deutschland"},
+        {"party":11,"support":2,"answer":"BSW"},
+        {"party":12,"support":1,"answer":"Wäre wünschenswert. Nach unserer Erfahrung entstehen gewünschte Strukturen immer dann, wenn sie hinreichend nachgefragt werden."},
+        {"party":13,"support":2,"answer":"Freie Wähler"},
+        {"party":14,"support":2,"answer":"Kommunen sollen finanziell mehr für Jugendclubs unterstützt werden"}
+      ]
+    },
+    {
+      "question": "Unsere Partei setzt sich dafür ein, dass mehr Freizeitangebote in und außerhalb von Schule (u.a. offene Räume, kostengünstige Angebote) geben wird.",
+      "answers":[
+        {"party":0,"support":2,"answer":"Der Wunsch nach mehr Freizeitangeboten gerade außerhalb der Schule ist nachvollziehbar und muss ausgebaut werden. [Unsere Partei] möchte vernetzte Angebote für Jung und Alt schaffen, die bestenfalls kostenfrei den Menschen zur Verfügung stehen."},
+        {"party":1,"support":2,"answer":"Besonders die Förderung von Sportvereinen will [unsere Partei] ausbauen. Aber auch z.B. Traditions- und Heimatvereine, in denen sich die Jugend engagieren kann, sollen gestärkt werden. Wichtig ist uns dabei, dass Vereine nicht für politische Indoktrination, sondern für ihre eigentlichen Vereinszwecke (Sport, Musik, Freizeit etc.) gefördert werden."},
+        {"party":2,"support":2,"answer":"Wir wollen, dass regelmäßig in jeder Gemeinde attraktive Angebote für und mit Jugendlichen stattfinden. Freie Träger, Kirchen oder Vereine wollen wir einbeziehen und finanziell unterstützen. Gerade im ländlichen Raum gibt es außerhalb von Schule und Vereinen zu wenig Freizeitmöglichkeiten für junge Menschen."},
+        {"party":3,"support":2,"answer":"[Unsere Partei] wird die Offene Kinder- und Jugendarbeit sowie die Arbeit der Jugendverbände weiter unterstützen und finanziell besser fördern. Außerdem wollen wir ein Investitionsprogramm für Einrichtungen der offenen Jugendarbeit in den Kommunen auflegen, um für zeitgemäße Jugendeinrichtungen zu sorgen – gerade auch im ländlichen Raum. "},
+        {"party":4,"support":2,"answer":"Ferienangebote, offene Jugendhäuser und -clubs, selbstverwaltete Jugendräume oder Kulturveranstaltungen sind wichtig für junge Menschen, damit sie sich treffen, entfalten und weiterentwickeln können Wir wollen die offenen Angebote erhalten und Angebote der mobilen Jugendarbeit im ländlichen Raum ausbauen."},
+        {"party":5,"support":2,"answer":"FDP"},
+        {"party":6,"support":2,"answer":"Tierschutz hier!"},
+        {"party":7,"support":2,"answer":"Das ist allerdings eine Aufgabe der Kommunen."},
+        {"party":8,"support":2,"answer":"Piraten"},
+        {"party":9,"support":2,"answer":"Jede Schule soll verschiedene Angebote für Schüler bereitstellen (AGs), sodass Schüler auch nach dem regulären Unterricht gemeinsam Zeit verbringen. Kommunen sollten Angebote für außerschulische Aktivitäten bereitstellen."},
+        {"party":10,"support":2,"answer":"Bündnis Deutschland"},
+        {"party":11,"support":2,"answer":"BSW"},
+        {"party":12,"support":1,"answer":"Wir würden es begrüßen, wenn wir eine Art „Kulturpass“ oder „Freizeitpass“ flächendeckend einführen könnten, um Jugendliche in erster Linie zusammenzubringen."},
+        {"party":13,"support":2,"answer":"Freie Wähler"},
+        {"party":14,"support":2,"answer":"ja"}
+      ]
+    },
+    {
+      "question": "Unsere Partei setzt sich dafür ein, dass Migration weiterhin ein wichtiges Thema bleibt und, dass Geflüchtete schnellstmöglich in unsere Gesellschaft integriert werden.",
+      "answers":[
+        {"party":0,"support":2,"answer":"[Unsere Partei] verteidigt das Grundrecht auf Asyl und setzt sich für menschenwürdige Lebensbedingungen und diskriminierungsfreie Teilhabe Geflüchteter ein. Zudem fordern wir das Recht auf Arbeit und soziale Sicherheit, um ihnen eine schnelle und nachhaltige Integration zu ermöglichen. Arbeitsverbote müssen der Vergangenheit angehören."},
+        {"party":1,"support":0,"answer":"[Unsere Partei] steht für die Rückabwicklung der illegalen Masseneinwanderung, die vor allem seit 2015 unser Land heimsucht. Illegal Eingewanderte und kriminelle Ausländer wollen wir rasch abschieben. Wer sich legal im Land aufhält, hat Integration als Bringschuld zu leisten. Wer das nicht kann oder will, muss gehen."},
+        {"party":2,"support":1,"answer":"Wir setzen uns dafür ein, der jeder Asylbewerber ein faires Verfahren erhält und alle Schutzberechtigten schnellstmöglich integriert werden. Das bedeutet insbesondere die Integration in den Arbeitsmarkt. Gleichzeitig stehen wir dafür, dass Personen deren Antrag abgelehnt wird und die ausreisepflichtig sind, dieser Pflicht auch nachkommen müssen."},
+        {"party":3,"support":2,"answer":"[Unsere Partei] setzt sich in der Integrationspolitik für frühe und individuelle Förderung ein, um Benachteiligungen nicht entstehen zu lassen. Integration gelingt vor Ort. Deshalb werden wir Kommunen dabei unterstützen, ihre Ausländerbehörden zu Integrationsbehörden weiterzuentwickeln und das gesellschaftliche Engagement von Zugewanderten stärken."},
+        {"party":4,"support":2,"answer":"Migration ist ein Prozess, den es immer schon gab und der uns auch in Zukunft zunehmend begleiten wird. Wir wollen, dass Geflüchteten und ihren Familien in Thüringen so schnell wie möglich ein selbstbestimmtes Leben ermöglicht wird. Dafür brauchen wir ausreichende Sprachkurse, gute Beratung, faire Verfahren und die Abschaffung von Arbeitsverboten. "},
+        {"party":5,"support":2,"answer":"FDP"},
+        {"party":6,"support":2,"answer":"Tierschutz hier!"},
+        {"party":7,"support":2,"answer":"Deutschland braucht endlich ein ordentliches Einwanderungsgesetz, damit legale über einen standardisierten Prozess Einwanderung möglich wird. Einwanderung verlangt jedoch auch den Willen zur Integration."},
+        {"party":8,"support":2,"answer":"Piraten"},
+        {"party":9,"support":2,"answer":"Für das Recht auf Flucht auf antifaschistischer Grundlage! Statt Flüchtlinge in  menschenunwürdige Massenunterkünfte unter zubringen treten wir für eine dezentrale Verteilung, das Anrecht auf eigenen Wohnraum und für das Recht zu arbeiten ein. Verpflichtende kostenlose Deutschkurse für Geflüchtete."},
+        {"party":10,"support":2,"answer":"Bündnis Deutschland"},
+        {"party":11,"support":2,"answer":"BSW"},
+        {"party":12,"support":2,"answer":"Einwanderung wird immer ein Thema sein (demografischer Wandel, Fachkräftemangel, etc.) und entsprechend ist die Infrastruktur auszubauen. Straßen, Schulen, Kitas, Wohnungen, Sprachkurse, integrative Arbeitsplätze, etc. Der Aufgabenbereich ist gigantisch, da von den etablierten Parteien fahrlässig vernachlässigt."},
+        {"party":13,"support":2,"answer":"Freie Wähler"},
+        {"party":14,"support":2,"answer":"Flüchtlinge sollten schneller in die Gesellschaft eingebunden werden"}
+      ]
+    },
+    {
+      "question": "Unsere Partei setzt sich dafür ein, dass das Wohnen – gerade für Studierende oder Auszubildende - erschwinglicher wird.",
+      "answers":[
+        {"party":0,"support":2,"answer":"Wir müssen als Land stärker als bisher selbst daraufsetzen, bezahlbaren Wohnraum zu schaffen - denn der Markt regelt das nicht. Deshalb wollen wir eine Landeswohnungsbaugesellschaft gründen, die bis 2030 einen Wohnungsbestand von etwa 1.500 landeseigenen Wohnungen aufbaut. Bis 2040 streben wir 10.000 landeseigene Wohnungen zu günstigen Preisen an."},
+        {"party":1,"support":2,"answer":"Wohnungsknappheit und hohe Mieten sind direkte Folgen des politisch verursachten Anstiegs von Baukosten sowie der jahrelangen illegalen Masseneinwanderung. Durch den Abbau baurechtlicher Vorschriften, günstigere Energiepreise und Remigration wird der Druck auf den Wohnungsmarkt sinken, das Bauen kostengünstiger und Wohnen wieder erschwinglich."},
+        {"party":2,"support":2,"answer":"Wir wollen eine Gleichwertigkeit von Studium und Berufsausbildung. Wir werden Leistungen allen jungen Menschen, unabhängig vom gewählten Karriereweg, anbieten. Hierzu gehören ein Jugend- Ticket und Junges Wohnen sowohl mit Studierendenwohnheimen als auch mit Wohnheimplätzen an Berufsbildungszentren."},
+        {"party":3,"support":2,"answer":"Thüringen hat bereits heute eine überdurchschnittliche Zahl von günstigen Wohnheimplätzen pro Studierenden. Als Thüringer [Zweig unserer Partei] setzen wir uns stark dafür ein, dass mit dem Programm „Junges Wohnen“ neuer, preiswerter Wohnraum speziell für Studierende und Auszubildende gebaut wird oder bestehende Gebäude saniert und renoviert werden."},
+        {"party":4,"support":2,"answer":"Unser Anspruch ist, dass jeder Mensch angemessen und bezahlbar wohnen kann. Gerade Studierende und Azubis mit keinem oder nur geringem Einkommen haben hier Schwierigkeiten. Daher wollen wir bezahlbares Wohnen fördern, generationenübergreifendes Wohnen ermöglichen, die Studierendenwerke finanziell absichern und ein Azubiwerk errichten."},
+        {"party":5,"support":2,"answer":"FDP"},
+        {"party":6,"support":2,"answer":"Tierschutz hier!"},
+        {"party":7,"support":2,"answer":"Das ist allerdings eher eine Aufgabe der Kommunen."},
+        {"party":8,"support":2,"answer":"Piraten"},
+        {"party":9,"support":2,"answer":"Höhere Ausbildungsvergütung und Bafög für Studierende aus besonders einkommensschwachen Familien. Gegen ausufernde Mietpreise!"},
+        {"party":10,"support":2,"answer":"Bündnis Deutschland"},
+        {"party":11,"support":2,"answer":"BSW"},
+        {"party":12,"support":2,"answer":"Wir kämpfen auf allen Ebenen, auf denen wir politisch vertreten sind, für mehr Wohnraum. Ob durch private oder institutionelle Förderung, Anreizprogramme, Abflachung von Standards, Baukostenreduzierung. Am Ende muss gebaut werden! Nur so kommen Angebot und Nachfrage in eine günstige Lage."},
+        {"party":13,"support":2,"answer":"Freie Wähler"},
+        {"party":14,"support":2,"answer":"Stärkung der Studentenwerke"}
+      ]
+    }
+  ]
+}
