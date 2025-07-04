@@ -1,0 +1,53 @@
+{
+  "name": "Testelection 2025",
+  "electionUId" : "TE2025",
+  "description": "The test election for 2025",
+  "parties": [
+    {
+      "partyShortName": "PLN",
+      "partyLongName": "Party of long names",
+      "partyIsGoverning": true,
+      "partyUID": 0,
+      "partyLogo": "logo.svg"
+    },
+    {
+      "partyShortName": "OP",
+      "partyLongName": "Other Party",
+      "partyIsGoverning": true,
+      "partyUID": 1,
+      "partyLogo": "logo2.svg"
+    }
+  ],
+  "questions": [
+    {
+      "questionText": "What do you think?",
+      "answers": [
+        {
+          "party": 0,
+          "support": -1,
+          "answer": "We think about it"
+        },
+        {
+          "party": 1,
+          "support": 2,
+          "answer": "Thinking we dont do"
+        }
+      ]
+    },
+    {
+      "questionText": "Why do you do?",
+      "answers": [
+        {
+          "party": 0,
+          "support": 2,
+          "answer": "We just do it"
+        },
+        {
+          "party": 1,
+          "support": 2,
+          "answer": "We dont know"
+        }
+      ]
+    }
+  ]
+}

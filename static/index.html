@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Existing Logos</title>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        .controls {
+            margin-bottom: 20px;
+            padding: 15px;
+            background: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(8, 1fr);
+            gap: 15px;
+        }
+        .svg-item {
+            background: white;
+            border-radius: 5px;
+            padding: 10px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            transition: transform 0.2s;
+        }
+        .svg-item:hover {
+            transform: translateY(-5px);
+        }
+        .svg-container {
+            width: 100%;
+            height: 120px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 10px;
+        }
+        .svg-container svg {
+            max-width: 100%;
+            max-height: 100%;
+        }
+        .svg-name {
+            text-align: center;
+            font-size: 12px;
+            word-break: break-all;
+            color: #555;
+        }
+        .loading {
+            text-align: center;
+            padding: 20px;
+            font-style: italic;
+            color: #666;
+        }
+        button {
+            padding: 8px 15px;
+            background: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            margin-right: 10px;
+        }
+        button:hover {
+            background: #45a049;
+        }
+        input {
+            padding: 8px;
+            width: 300px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        .error {
+            color: red;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+<div id="app">
+    <div class="container">
+        <h1>SVG Viewer</h1>
+        <div class="controls">
+            <button @click="fetchAllSVGs">Load All SVGs</button>
+            <div style="margin-top: 10px;">
+                <input v-model="fileInput" placeholder="Enter SVG filenames (comma separated)" @keyup.enter="fetchSpecificSVGs">
+                <button @click="fetchSpecificSVGs">Load Specific SVGs</button>
+            </div>
+            <div v-if="error" class="error">{{ error }}</div>
+        </div>
+        <div v-if="loading" class="loading">Loading SVGs...</div>
+
+        <div class="grid">
+            <div v-for="svg in svgs" :key="svg.name" class="svg-item">
+                <div class="svg-container" v-html="svg.data"></div>
+                <div class="svg-name">{{ svg.name }}</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    const { createApp, ref } = Vue;
+
+    createApp({
+        setup() {
+            const svgs = ref([]);
+            const loading = ref(false);
+            const error = ref(null);
+            const fileInput = ref('');
+
+            const fetchSVGs = async (endpoint) => {
+                loading.value = true;
+                error.value = null;
+                try {
+                    const response = await fetch(endpoint);
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    svgs.value = await response.json();
+                } catch (err) {
+                    error.value = `Failed to load SVGs: ${err.message}`;
+                    console.error('Error:', err);
+                } finally {
+                    loading.value = false;
+                }
+            };
+
+            const fetchAllSVGs = () => {
+                fetchSVGs('/api/svgs');
+            };
+
+            const fetchSpecificSVGs = () => {
+                if (!fileInput.value.trim()) {
+                    error.value = 'Please enter at least one filename';
+                    return;
+                }
+                const files = fileInput.value.split(',').map(f => f.trim()).filter(f => f);
+                const query = files.map(f => `file=${encodeURIComponent(f)}`).join('&');
+                fetchSVGs(`/api/svgs?${query}`);
+            };
+
+            // Load all SVGs on page load
+            fetchAllSVGs();
+
+            return {
+                svgs,
+                loading,
+                error,
+                fileInput,
+                fetchAllSVGs,
+                fetchSpecificSVGs
+            };
+        }
+    }).mount('#app');
+</script>
+</body>
+</html>
