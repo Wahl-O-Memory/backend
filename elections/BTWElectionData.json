@@ -2,6 +2,56 @@
   "name": "Bundestagswahl U18 2025",
   "electionUId" : "BTWU18_2025",
   "description": "Die U18-Wahl zur Bundestagswahl 2025 findet vom 07. Bis 14.02.2025 statt, die „Erwachsenen“-Wahl am 23.02.2025. ",
+  "parties": [
+    {
+      "shortName":"SPD",
+      "fullName": "Sozialdemokratische Partei Deutschlands",
+      "isGoverning": true,
+      "partyId": 0,
+      "hasAnswers": true,
+      "logo":"SPD_2025.svg"
+    },
+    {
+      "shortName":"CDU/CSU",
+      "fullName": "Christlich Demokratische Union Deutschlands ",
+      "isGoverning": true,
+      "partyId": 1,
+      "hasAnswers": true,
+      "logo":"Union_2025.svg"
+    },
+    {
+      "shortName":"Die Grünen",
+      "fullName": "Bündnis 90 Die Grünen",
+      "isGoverning": true,
+      "partyId": 2,
+      "hasAnswers": true,
+      "logo":"Grüne_2025.svg"
+    },
+    {
+      "shortName":"FDP",
+      "fullName": "Freie Demokratische Partei",
+      "isGoverning": true,
+      "partyId": 3,
+      "hasAnswers": true,
+      "logo":"FDP_2025.svg"
+    },
+    {
+      "shortName":"Die Linke",
+      "fullName": "Die Linke",
+      "isGoverning": true,
+      "partyId": 4,
+      "hasAnswers": true,
+      "logo":"Linke_2025.svg"
+    },
+    {
+      "shortName":"BSW",
+      "fullName": "Bündnis Sahra Wagenknecht",
+      "isGoverning": true,
+      "partyId": 5,
+      "hasAnswers": true,
+      "logo":"BSW_2025.svg"
+    }
+  ],
   "questions": [
     {
       "question": "Wie werden Sie sich für eine bessere und wirksamere Jugendbeteiligung auf Bundesebene einsetzen, damit junge Menschen künftig wirksamer an politischen Entscheidungsprozessen teilhaben?",

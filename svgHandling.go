@@ -15,11 +15,6 @@ type SVGResponse struct {
 }
 
 func handleSVGsRequest(w http.ResponseWriter, r *http.Request) {
-	// Set CORS headers
-	w.Header().Set("Access-Control-Allow-Origin", "*")
-	w.Header().Set("Access-Control-Allow-Methods", "GET")
-	w.Header().Set("Content-Type", "application/json")
-
 	// Parse query parameters
 	query := r.URL.Query()
 	requestedFiles := query["file"]

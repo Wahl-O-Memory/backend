@@ -6,6 +6,7 @@ import (
 	"io/ioutil"
 	"net/http"
 	"path/filepath"
+	"time"
 )
 
 // scanElectionsFolder scans the elections folder and updates the in-memory list.
@@ -41,7 +42,7 @@ func scanElectionsFolder() {
 	}
 
 	electionData = tempData
-	fmt.Println("Election data updated")
+	fmt.Printf("[%s] Election data updated\n", time.Now().Format("2006-01-02 15:04:05"))
 }
 
 // getElectionsHandler handles the GET /elections endpoint.
