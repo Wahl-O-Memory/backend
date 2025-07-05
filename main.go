@@ -24,11 +24,11 @@ var (
 	lock          sync.RWMutex
 
 	//Configurable
+	updateInterval  = 10 * time.Second //Update interval
 	port            = ":20202"
 	folderPath      = "."
 	electionsFolder = "./elections"
-	updateInterval  = 10 * time.Second //Update interval
-	svgDirectory    = "./svgs"         // Directory where SVG files are stored
+	svgDirectory    = "./svgs" // Directory where SVG files are stored
 )
 
 // corsMiddleware adds CORS headers to the response
