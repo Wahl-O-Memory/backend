@@ -2,6 +2,128 @@
   "name": "Thüringen U18 2024",
   "electionUId" : "ThüU18_2024",
   "description": "Die U18 Wahl zur Thüringer Landtagswahl am 01. September 2024",
+  "parties": [
+    {
+      "shortName":"Die Linke",
+      "fullName": "Die Linke",
+      "isGoverning": true,
+      "partyId": 0,
+      "hasAnswers": true,
+      "logo":"Linke_2025.svg"
+    },
+    {
+      "shortName":"AfD",
+      "fullName": "Alternative für Deutschland",
+      "isGoverning": true,
+      "partyId": 1,
+      "hasAnswers": true,
+      "logo":"AfD_2024"
+    },
+    {
+      "shortName":"CDU",
+      "fullName": "Christlich Demokratische Union Deutschlands",
+      "isGoverning": true,
+      "partyId": 2,
+      "hasAnswers": true,
+      "logo":"CDU_2024"
+    },
+    {
+      "shortName":"SPD",
+      "fullName": "Sozialdemokratische Partei Deutschlands",
+      "isGoverning": true,
+      "partyId": 3,
+      "hasAnswers": false,
+      "logo":"SPD_2024.svg"
+    },
+    {
+      "shortName":"Die Grünen",
+      "fullName": "Bündnis 90/ Die Grünen",
+      "isGoverning": true,
+      "partyId": 4,
+      "hasAnswers": true,
+      "logo":"Grüne_2024.svg"
+    },
+    {
+      "shortName":"FDP",
+      "fullName": "Freie Demokratische Partei",
+      "isGoverning": true,
+      "partyId": 5,
+      "hasAnswers": false,
+      "logo":"NONE.svg"
+    },
+    {
+      "shortName":"Tierschutz hier!",
+      "fullName": "Aktion Partei für Tierschutz",
+      "isGoverning": false,
+      "partyId": 6,
+      "hasAnswers": false,
+      "logo":"NONE.svg"
+    },
+    {
+      "shortName":"ÖDP",
+      "fullName": "Ökologisch-Demokratische Partei / Familie, Gerechtigkeit, Umwelt",
+      "isGoverning": false,
+      "partyId": 7,
+      "hasAnswers": true,
+      "logo":"ÖDP_2024.svg"
+    },
+    {
+      "shortName":"Piraten",
+      "fullName": "Die Piratenpartei Deutschlands",
+      "isGoverning": false,
+      "partyId": 8,
+      "hasAnswers": false,
+      "logo":"NONE.svg"
+    },
+    {
+      "shortName":"MLPD",
+      "fullName": "Marxistisch-Leninistische Partei Deutschlands",
+      "isGoverning": false,
+      "partyId": 9,
+      "hasAnswers": true,
+      "logo":"MLPD_2024.svg"
+    },
+    {
+      "shortName":"Bündnis Deutschland",
+      "fullName": "Bündnis Deutschland",
+      "isGoverning": false,
+      "partyId": 10,
+      "hasAnswers": false,
+      "logo":"<NONE.svg"
+    },
+    {
+      "shortName":"BSW",
+      "fullName": "Bündnis Sahra Wagenknecht - Vernunft und Gerechtigkeit",
+      "isGoverning": false,
+      "partyId": 11,
+      "hasAnswers": false,
+      "logo":"NONE.svg"
+    },
+    {
+      "shortName":"Familie",
+      "fullName": "Familien-Partei Deutschland",
+      "isGoverning": false,
+      "partyId": 12,
+      "hasAnswers": true,
+      "logo":"Familie_2024.svg"
+    },
+    {
+      "shortName":"FW",
+      "fullName": "Freie Wähler",
+      "isGoverning": false,
+      "partyId": 13,
+      "hasAnswers": false,
+      "logo":"NONE.svg"
+    },
+    {
+      "shortName":"WU",
+      "fullName": "Werteunion",
+      "isGoverning": false,
+      "partyId": 14,
+      "hasAnswers": true,
+      "logo":"WU_2024.svg"
+    }
+  ],
   "questions": [
     {
       "question": "So beschreiben wir uns selbst",
