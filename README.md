@@ -16,7 +16,7 @@ docker run -d -v $(pwd)/elections:/root/elections -v $(pwd)/svgs:/root/svgs -p 2
 ```
 
 **Mögliche configuration-Parameter**
-Alle konfigurierbaren Parameter finden sich in der `main.go` unter vden vars
+Alle konfigurierbaren Parameter finden sich in der `main.go` unter dem Abschnitt vars
 1. Update Intervall für den Elections-folder
 2. Port auf dem alle Pfade liegen
 3. Relative Ordnerpfade
